@@ -175,6 +175,8 @@
     border-radius: 10px;
     backdrop-filter: blur(2px);
     width: fit-content;
+    display: block;
+    margin-top: 2px;
   }
   
   .description {
